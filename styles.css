@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Calibri;
+}
+
+.hero{
+    position: absolute;
+    width: 100%;
+    height: 300vh;
+    background: #808080;
+}
+
+.detail{
+    margin-left: 8%;
+    margin-top: 1%;
+}
+
+.detail h1{
+    font-size: 50px;
+    color: #ff6a00;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+span{
+    color: aquamarine;
+}
+
+.detail .me{
+    position: relative;
+    margin-left: 50%;
+    width: 10%;
+    height: 10%;
+}
+
+.detail .det{
+    font-size: 24px;
+    color: burlywood;
+    font-weight: bold;
+    line-height: 22px;
+    margin-top: 10px;
+    margin-bottom: 28px;
+}
+
+.detail p {
+    font-size: 24px;
+    line-height: 20px;
+    margin-bottom: 28px;
+    color: #262626;
+}
+
+.detail h2{
+    color: #262626;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 28px;
+    margin-top: 32px;
+    margin-bottom: 20px;
+}
+
+.detail h3{
+    color: #262626;
+    font-size: 20px;
+}
+
+.detail a{
+    background: #212121;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: aliceblue;
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 5px;
+}
+
+.detail img{
+        width: 40%;
+        height: 40%;
+        font-weight: normal;
+        margin-bottom: 15px;
+        margin-right: 5px;
+}
+
+.detail .job{
+    margin-left: 2%;
+    line-height: 28px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.games:hover .shape {
+        bottom: 40px;
+}
+
+.games:hover .done{
+    left: 45%;
+}
